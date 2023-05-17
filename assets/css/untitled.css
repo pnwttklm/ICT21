@@ -102,13 +102,13 @@ div {
 
 @media (min-width: 768px) {
   h6 {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
 
 @media (min-width: 1400px) {
   h6 {
-    font-size: 16px;
+    font-size: 21px;
   }
 }
 
